@@ -1,0 +1,42 @@
+body {
+    font-family: 'Nunito';
+    margin: auto;
+    padding: 20 0 10 0;
+    background: #ddd;
+    width: 50%;
+    align-content: center;
+
+}
+img {
+    width: 30%;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 2px solid;
+}
+h2 {
+    font-size: 35px;
+}
+
+.welkom {
+    text-align: center;
+}
+.bestel {
+    font-size: 25px;
+    font-weight: bold;
+    color: green;
+    
+}
+.back {
+   
+    font-weight: bold;
+    color: red;
+}
+footer {
+    background: #eee;
+    padding: 20px;
+    text-align: center;
+}
